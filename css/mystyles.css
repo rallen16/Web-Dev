@@ -1,0 +1,25 @@
+
+.olist {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.ulist{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.contact {
+    font-size: 20px;
+    font-style: oblique;
+}
+.color {
+    color: rgb(72, 10, 130);
+}
+
+.resume {
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+}
